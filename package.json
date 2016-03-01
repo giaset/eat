@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/giaset/eat/issues"
   },
-  "homepage": "https://github.com/giaset/eat"
+  "homepage": "https://github.com/giaset/eat",
+  "dependencies": {
+    "twilio": "^2.9.0"
+  }
 }
