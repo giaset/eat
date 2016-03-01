@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/giaset/eat",
   "dependencies": {
+    "express": "^4.13.4",
     "twilio": "^2.9.0"
   }
 }
