@@ -1,6 +1,9 @@
 {
   "name": "eat",
   "version": "1.0.0",
+  "engines" : {
+    "node": "5.6.0"
+  },
   "description": "the only thing on the mind of a shark.",
   "main": "eat.js",
   "scripts": {
