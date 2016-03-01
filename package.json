@@ -1,0 +1,19 @@
+{
+  "name": "eat",
+  "version": "1.0.0",
+  "description": "the only thing on the mind of a shark.",
+  "main": "eat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/giaset/eat.git"
+  },
+  "author": "@giaset",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giaset/eat/issues"
+  },
+  "homepage": "https://github.com/giaset/eat"
+}
